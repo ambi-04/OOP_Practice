@@ -40,7 +40,9 @@ One class has a default (no modifier) method
 
 Another class tries to access it
 
-Is access allowed? Why?
+Is access allowed? Why?  
+
+--->Yes access is allowed beacuse both classes are in the same package 
 
 ### Q3
 
