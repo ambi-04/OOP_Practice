@@ -72,7 +72,14 @@ A parent class with a protected method
 
 A child class in the same package
 
-Can the child access the method?
+Can the child access the method?  
+--> yes it can  
+```
+ambika@ambikaPC:~/projects/OOP_practice/AccessModifiers$ javac Q4/Apple.java 
+ambika@ambikaPC:~/projects/OOP_practice/AccessModifiers$ java Q4/Apple
+Inside apple class. calling parent class protected method...
+Fruit class protected method
+```
 ### Q5
 
 Create:
