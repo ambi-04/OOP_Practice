@@ -50,7 +50,18 @@ Create a class with:
 
 private, default, protected, and public variables
 
-From inside the same class, which variables are accessible?
+From inside the same class, which variables are accessible?  
+--> all were accessible  
+Output:  
+```
+ambika@ambikaPC:~/projects/OOP_practice/AccessModifiers/Q3$ java Apple
+Hello...we are inside apple class.
+Apple object created.Properties of this apple
+: color : green
+ imported_from :USA
+weight:100.7
+ batch_no:198
+```
 
 ## LEVEL 2: Package & Subclass Confusion 
 ### Q4
